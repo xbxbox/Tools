@@ -130,13 +130,31 @@ Proxy:
   ws-path: /v2rayssrcom/
   Host: v2rayssr.com
 
-- name: "Trojan节点的主机测试"
+- name: "gigsgigs"
   type: trojan
-  server: www.v2rayssr.com
+  server: the.xbxbox1.xyz
   port: 443
-  password: v2rayssr.com
+  password: 880117890909
 
- 
+
+- name: "阿里云SG01"
+  type: trojan
+  server: sss.xbxbox1.xyz
+  port: 443
+  password: 880117890909
+
+- name: "hostdare"
+  type: trojan
+  server: the.xbxbox1988.xyz
+  port: 443
+  password: 880117890909
+
+
+ - name: "阿里云HK01"
+  type: trojan
+  server: sss.xbxbox1988.xyz
+  port: 443
+  password: 880117890909
 ###############################################################配置分割线
 
 # 代理组策略
