@@ -136,7 +136,6 @@ Proxy:
   port: 443
   password: 880117890909
 
-
 - name: "阿里云SG01"
   type: trojan
   server: sss.xbxbox1.xyz
@@ -149,12 +148,13 @@ Proxy:
   port: 443
   password: 880117890909
 
-
- - name: "阿里云HK01"
+- name: "阿里云HK01"
   type: trojan
   server: sss.xbxbox1988.xyz
   port: 443
   password: 880117890909
+
+
 ###############################################################配置分割线
 
 # 代理组策略
